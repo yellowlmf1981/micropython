@@ -5,7 +5,7 @@ def delay(n):
     #time.sleep(float(n) / 1000)
     pass
 
-rand_seed = 1
+rand_seed = 2
 def rng():
     global rand_seed
     # for these choice of numbers, see P L'Ecuyer, "Tables of linear congruential generators of different sizes and good lattice structure"
